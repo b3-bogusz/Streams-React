@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "title": "Programming stream",
+      "description": "I will teach You how to code",
+      "id": 1
+    },
+    {
+      "title": "Cooking stream",
+      "description": "I will show You how to make a delicious pizza",
+      "id": 2
+    }
+  ]
+}
