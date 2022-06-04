@@ -17,10 +17,15 @@
       "id": 3
     },
     {
-      "title": "Biking stream",
+      "title": "Biking stream people",
       "description": "Riding a bike in deep woods",
       "userId": "115455021477623859718",
       "id": 4
+    },
+    {
+      "title": "Running stream",
+      "description": "20k half-marathon stream!",
+      "id": 5
     }
   ]
 }
